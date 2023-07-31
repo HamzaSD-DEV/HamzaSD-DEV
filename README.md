@@ -17,7 +17,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
+    <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"
       ><img
         src="https://github-profile-trophy.vercel.app/?username=HamzaSD-DEV&rank=A,B,C,SSS,SS,S,AAA,AA"
         alt="HamzaSD-DEV"
