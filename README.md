@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi 👋, I'm Hamza Saoud</h1>
-  <h3 align="center">A software engineer</h3>
+  <h3 align="center">A Software Engineer</h3>
   <div align="center">
     <img
       width="100px"
