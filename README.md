@@ -163,11 +163,11 @@
         height="40"
       />
     </a>
-    <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
+    <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">
       <img
-        src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+        src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png"
         alt="materialize"
-        width="40"
+        width="80"
         height="40"
       />
     </a>
